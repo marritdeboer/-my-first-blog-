@@ -25,7 +25,7 @@ SECRET_KEY = 'mtg_&)wrokce$e8i%ghz1y=a$1*k5!u!d5(4@ydw7_goxbk=t5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pythonboer.pythonanywhere.com']
 
 
 # Application definition
